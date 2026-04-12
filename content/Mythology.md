@@ -1,4 +1,0 @@
-[[Hindu]]
-[[Greek]]
-[[Roman]]
-[[Viking]]
