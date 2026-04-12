@@ -1,6 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Aletheia. A second brain experiment by Aditya Deshmukh
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+[[History]]
+[[Quotes]]
+[[Mythology]]
