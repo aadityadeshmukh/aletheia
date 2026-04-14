@@ -1,0 +1,1 @@
+[[Rationalism]]: The philosophical belief that reason and logic, rather than sensory experience, are the primary sources of knowledge. It was formalized by the Milesian school as a counter-narrative to mythological explanation.

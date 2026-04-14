@@ -1,0 +1,1 @@
+[[Boredom]]: The state of feeling weary or restless through lack of interest or monotonous repetition. It serves as the inevitable friction coefficient in any long-term project or commitment of true consequence.

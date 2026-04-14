@@ -1,0 +1,1 @@
+[[Epistemology]]: The branch of philosophy concerned with the nature, origin, and limits of human knowledge. It is primarily divided into empiricism (sensory experience) and rationalism (logical reasoning).

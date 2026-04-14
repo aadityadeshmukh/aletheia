@@ -1,0 +1,1 @@
+[[SCIM]]: System for Cross-domain Identity Management; an open standard for automating the exchange of user identity information between identity domains. While efficient, its security depends entirely on the integrity of the connected systems.

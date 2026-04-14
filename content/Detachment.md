@@ -1,0 +1,1 @@
+[[Detachment]]: A state of objective observation and emotional self-sufficiency where one's internal worth is decoupled from external outcomes or the actions of others. It facilitates engagement without the reactive friction of ego-driven necessity.

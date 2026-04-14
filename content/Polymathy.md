@@ -1,0 +1,1 @@
+[[Polymathy]]: The pursuit of mastery across multiple, disconnected domains of knowledge. It is a strategic hedge against the obsolescence of hyper-specialization in complex, rapidly changing environments.

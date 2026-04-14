@@ -1,0 +1,1 @@
+[[Far Transfer]]: The cognitive ability to apply structural patterns and insights from one domain to a fundamentally different and unrelated field. It is the primary mechanism by which polymaths generate innovation at the intersections of disciplines.

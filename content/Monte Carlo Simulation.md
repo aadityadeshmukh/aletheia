@@ -1,0 +1,1 @@
+[[Monte Carlo Simulation]]: A mathematical technique that uses repeated random sampling to obtain numerical results for complex problems. It is the architectural foundation of modern predictive modeling in sports, finance, and engineering.

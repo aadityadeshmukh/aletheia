@@ -1,0 +1,1 @@
+[[Abundance Mindset]]: The operating premise that internal resources—love, value, and potential—are infinite and self-replenishing. It stands in direct opposition to the scarcity model promoted by the ego.

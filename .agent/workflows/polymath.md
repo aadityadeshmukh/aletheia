@@ -1,6 +1,8 @@
 ---
-description: Process raw thoughts into atomic notes using the Polymath Editorial Agent
+title: Polymath Note Generator
+description: Process raw thoughts into atomic notes
 ---
+
 
 1. Scan the `content/raw/` directory for any new or unprocessed thoughts.
 2. For each relevant file, invoke the **Polymath Editorial Agent** rules to:

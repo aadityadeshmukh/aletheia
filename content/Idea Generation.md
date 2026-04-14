@@ -1,0 +1,1 @@
+[[Idea Generation]]: The process of creating or developing new concepts. In the Polymath framework, it is viewed as a byproduct of active engagement with external systems, particularly writing and cross-disciplinary linking.

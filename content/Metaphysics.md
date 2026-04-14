@@ -1,0 +1,1 @@
+[[Metaphysics]]: The foundational study of reality, examining the nature of existence, things, and the relationship between mind and matter. It serves as the framework for defining the "what" of the universe.

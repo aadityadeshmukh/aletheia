@@ -1,0 +1,1 @@
+[[M-Shaped Path]]: A professional profile characterized by multiple deep "pillars" of expertise linked by a horizontal crossbar of broad, diverse knowledge. It replaces the singular depth of the I-shaped specialist with a more resilient, multi-foundation architecture.

@@ -1,0 +1,1 @@
+[[Nothing Design]]: A visual language characterized by monochrome palettes, industrial textures, and a heavy reliance on typography (dot-matrix and grotesque styles). It emphasizes the "mechanical" nature of technology through minimalist but tactile UI elements.

@@ -1,0 +1,1 @@
+[[Elo Rating]]: A method for calculating the relative skill levels of players or teams in zero-sum competitions. It provides a standardized metric for "form" that can be used to weight probabilities in predictive simulations.

@@ -1,0 +1,1 @@
+[[Identity Governance]]: A policy-based approach to managing access and identity across an enterprise, adding layers of approval, auditing, and anomaly detection. It provides the necessary friction for high-sensitivity data environments.

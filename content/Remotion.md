@@ -1,0 +1,1 @@
+[[Remotion]]: A framework for creating videos programmatically using React. It treats video frames as dynamic code outputs, enabling the automated generation of content tailored to specific data or design environments.
