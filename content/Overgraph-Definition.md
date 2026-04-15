@@ -1,0 +1,1 @@
+[[Overgraph]]: A sporting analytics platform that utilizes ball-by-ball data and Monte Carlo simulations to project match outcomes and playoff probabilities. It represents the shift from anecdotal "form" to quantitative, predictive determination.

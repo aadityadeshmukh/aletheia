@@ -8,10 +8,11 @@ The ego is an architect of lack, building pedestals for others while digging tre
 - **Abundance through Detachment:** To detach is to realize that "you will never leave you." It is the shift from a parasitic emotional existence to one where others add value to a vault that is already full, rather than filling a void that can never be satisfied.
 
 ### Synthesis
-Happiness is an internal utility, not an external commodity. **Detachment is the reclamation of the self from the economy of scarcity.**
+Happiness is an internal utility, not an external commodity. **Detachment is the reclamation of the self from the economy of scarcity—a psychological prerequisite for the [[Identity Governance|objective vetting]] required in high-sensitivity systems.**
 
 ---
 **Connections:**
-[[Detachment]] | [[Ego]] | [[Abundance Mindset]] | [[Stoicism]]
+[[Detachment]] | [[Ego]] | [[Abundance Mindset]] | [[Stoicism]] | [[Identity Governance]]
+
 
 **Tags:** #Philosophy #Ego #Detachment #Psychology

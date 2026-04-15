@@ -8,10 +8,11 @@ Modern sports analytics has moved beyond the scorecard into the realm of high-fi
 - **Foresight over Hindsight:** Standings and playoff race projections are transformed from static reports into dynamic, living systems that update mid-match, providing a continuous feedback loop of strategic probability.
 
 ### Synthesis
-Complexity is the precursor to clarity. **Simulation is the bridge between historical data and future probability.**
+Complexity is the precursor to clarity. **Simulation is the bridge between historical data and future probability—a modern instantiation of the [[Monism|monistic search]] for a single principle that governs all diversity.**
 
 ---
 **Connections:**
-[[Predictive Modeling]] | [[Monte Carlo Simulation]] | [[Elo Rating]] | [[Strategic Foresight]]
+[[Predictive Modeling]] | [[Monte Carlo Simulation]] | [[Elo Rating]] | [[Strategic Foresight]] | [[Monism]]
+
 
 **Tags:** #Technology #Strategy #Data #Analytics

@@ -8,10 +8,11 @@ Philosophy emerged not as a body of dogma, but as a toolkit for rational inquiry
 - **The Aesthetic Conclusion:** Aesthetics represents the final frontier of early philosophy, extending the quest for justice and virtue into the realm of beauty and artistic authenticity.
 
 ### Synthesis
-Philosophy is not the study of answers, but the engineering of better questions. **Reason is the primary technology of human understanding.**
+Philosophy is not the study of answers, but the engineering of better questions. **Reason is the primary technology of human understanding, an engine specifically fueled by the act of [[Writing|externalizing thought]] through language.**
 
 ---
 **Connections:**
-[[Metaphysics]] | [[Epistemology]] | [[Logic]] | [[Ethics]] | [[Aesthetics]]
+[[Metaphysics]] | [[Epistemology]] | [[Logic]] | [[Ethics]] | [[Aesthetics]] | [[Writing]]
+
 
 **Tags:** #Philosophy #Epistemology #Logic #Aesthetics

@@ -8,10 +8,11 @@ The birth of a child is often narrated as an expansion of the soul, yet it frequ
 - **The Ides of Parenting:** Like Caesar on the senate floor, the contemporary parent is struck by warnings they chose to ignore, realizing that the "captivity of marriage" and family is a self-imposed prison where the bars are made of white-noise machines and unyielding fatigue.
 
 ### Synthesis
-Meaning is not a dividend paid in pleasure; it is the currency earned through the endurance of the gray. **Boredom is the tax we pay on the things we love most.**
+Meaning is not a dividend paid in pleasure; it is the currency earned through the endurance of the gray. **Boredom is the tax we pay on the things we love most—a logic mirrored in the [[Nothing Aesthetic|industrial honesty]] of minimalist design, which removes the distraction of pleasure to highlight the endurance of utility.**
 
 ---
 **Connections:**
-[[Boredom]] | [[Meaning]] | [[Existential Friction]] | [[Fatherhood]]
+[[Boredom]] | [[Meaning]] | [[Existential Friction]] | [[Fatherhood]] | [[Nothing Aesthetic]]
+
 
 **Tags:** #Philosophy #Culture #Boredom #Meaning

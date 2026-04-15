@@ -1,0 +1,1 @@
+[[NVIDIA NIM]]: A set of optimized inference microservices that provide standardized API entry points for deploying large-scale AI models. It serves as the foundational "intelligence grid" for enterprise agentic workflows.

@@ -8,10 +8,11 @@ The modern workforce is a "wicked" environment that has outgrown the rigid archi
 - **Far Transfer as Utility:** The true leverage of the M-shaped professional is **[[Far Transfer]]**, the ability to map the root structures of one discipline onto another, such as applying musical harmony to software architecture.
 
 ### Synthesis
-True professional durability is found not in the depth of a single well, but in the bridges built between them. **The polymath is the architect of the unexpected connection.**
+True professional durability is found not in the depth of a single well, but in the bridges built between them. **The polymath is the human equivalent of an [[Agentic Intelligence|agentic system]], orchestrating multiple deep competencies to solve complex, novel problems.**
 
 ---
 **Connections:**
-[[Polymathy]] | [[Career Strategy]] | [[Knowledge Management]] | [[M-Shaped Path]]
+[[Polymathy]] | [[Career Strategy]] | [[Knowledge Management]] | [[M-Shaped Path]] | [[Agentic Intelligence]]
+
 
 **Tags:** #Strategy #Polymathy #Learning #Career

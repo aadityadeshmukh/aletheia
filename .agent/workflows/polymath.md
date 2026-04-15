@@ -8,5 +8,8 @@ description: Process raw thoughts into atomic notes
 2. For each relevant file, invoke the **Polymath Editorial Agent** rules to:
     - Create a structured main note in the `content/` directory.
     - Generate recursive support definitions for linked concepts in the `content/` directory.
+    - **Identify Tools:** If the content describes a specific hardware, software, or framework, catalogue it under the **[[Utilities]]** hub.
+    - **Hierarchical Linking:** Place the tool in the appropriate sub-category page (e.g., [[Technical and AI Utilities]]) to ensure it is correctly mapped in the Obsidian graph.
 3. Ensure the structure follows the Hook → 3 Strategic Bullets → Synthesis format.
 4. Verify that all supporting definitions are in the authoritative Economist [EC] style.
+

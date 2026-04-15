@@ -1,0 +1,1 @@
+[[Model as a Service (MaaS)]]: A cloud-based delivery model where machine learning models are provided through standardized APIs, abstracting away the underlying infrastructure and optimization complexity.

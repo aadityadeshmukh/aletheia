@@ -1,0 +1,1 @@
+[[Agentic Intelligence]]: A model of AI where systems possess the autonomy to reason, use tools, and execute multi-step workflows to achieve complex objectives. It moves beyond simple chat interfaces into the realm of functional, autonomous agency.

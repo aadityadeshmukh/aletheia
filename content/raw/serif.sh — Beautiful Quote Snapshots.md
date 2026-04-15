@@ -8,6 +8,4 @@ description: "Create beautiful, shareable images of your favorite quotes. Choose
 tags:
   - "clippings"
 ---
-> Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated.
-
-AKASH IBHADANGE
+This is a tool / utility as mentioned in the description. Should be catalogued under the category. 

@@ -8,10 +8,11 @@ In the 6th century BCE, the colonies of Miletus initiated a fundamental shift in
 - **Logical Paradoxes:** Zeno’s paradoxes served as a radical test of logic against sensory experience, proving that mathematical laws often reveal truths that intuitive observation cannot grasp.
 
 ### Synthesis
-The first scientists discovered that the universe is a legible system, not a divine whim. **Rational inquiry is the ancestor of all empirical science.**
+The first scientists discovered that the universe is a legible system, not a divine whim. **Rational inquiry is the ancestor of all empirical science and the pursuit of primary substance in [[Nothing Aesthetic|modern design]].**
 
 ---
 **Connections:**
-[[Rationalism]] | [[Monism]] | [[Milesian School]] | [[History of Science]]
+[[Rationalism]] | [[Monism]] | [[Milesian School]] | [[History of Science]] | [[Nothing Aesthetic]]
+
 
 **Tags:** #Philosophy #History #Science #Rationalism

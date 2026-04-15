@@ -8,10 +8,11 @@ The **[[Nothing Design]]** language is a reaction against the cluttered, hyper-s
 - **Instrument-Style Widgets:** Toggles and progress bars are modeled after mechanical instruments, fostering a tactile, "analog" connection between the user and the digital machine.
 
 ### Synthesis
-Design is the process of removal. **The goal of the industrial aesthetic is to make the technology disappear into its utility.**
+Design is the process of removal. **The goal of the industrial aesthetic is to find the "arche"—the primary substance—of the digital object, mirroring the [[The Milesian Revolution|Milesian quest]] for first principles.**
 
 ---
 **Connections:**
-[[Nothing Design]] | [[Minimalism]] | [[Industrial Design]] | [[Design Systems]]
+[[Nothing Design]] | [[Minimalism]] | [[Industrial Design]] | [[Design Systems]] | [[The Milesian Revolution]]
+
 
 **Tags:** #Design #Minimalism #UI #Philosophy

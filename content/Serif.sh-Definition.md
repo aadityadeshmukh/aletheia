@@ -1,0 +1,1 @@
+[[Serif.sh]]: A typographical snapshotting tool designed to transform text-based quotes into visually refined, shareable digital artifacts. It facilitates the distribution of thought by elevating its aesthetic framing.
